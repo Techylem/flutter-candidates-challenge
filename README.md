@@ -19,8 +19,8 @@ Create a blogger app, where anyone is able to signup with email and post a mini 
 
 Blog can contain a max of 1000 words, and a photo [ optional ]
 
-...Use [stacked architecture](https://www.filledstacks.com/) to achieve the requirements
-...Using [stacked](https://pub.dev/packages/stacked) and [stacked-services](http://stacked_services) is a must
+- Use [stacked architecture](https://www.filledstacks.com/) to achieve the requirements
+- Using [stacked](https://pub.dev/packages/stacked) and [stacked-services](http://stacked_services) is a must
 
 All the remaining technicalities are open ended, use your creativity to make an app ready to be published.
 
